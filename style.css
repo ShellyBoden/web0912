@@ -1,0 +1,60 @@
+div.topimg{
+    width:auto;
+    margin-right:50px;
+    margin-left:50px;
+    float:left;
+}
+
+div.toptext{
+    font-size:36px;
+    width:auto;
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    box-sizing:border-box;
+    padding:20px 25px 20px 25px;
+    line-height:32px;
+}
+
+div.topcontent{
+  font-size:16px;
+  line-height:32px;
+}
+
+div.toppage{
+  width:auto;
+  height:200px;
+}
+
+div.middle{
+  margin-left:50px;
+  margin-top:50px;
+  Float:left;
+}
+
+div.bottompage{
+  margin-left:50px;
+  margin-top:50px;
+  Float:left;
+}
+
+div.A{
+  width:200px;
+  float:left;
+  margin-right:50px;
+}
+
+div.B{
+  width:200px;
+  float:left;
+  margin-right:50px;
+}
+
+div.C{
+  width:200px;
+  float:left;
+}
+
+div.allpage{
+  float:left;
+}
