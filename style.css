@@ -1,5 +1,12 @@
+div.allpage{
+  width:100vw;
+  height:100vh;
+  margin:0px;
+}
+
 div.topimg{
     width:auto;
+    height:auto;
     margin-right:50px;
     margin-left:50px;
     float:left;
@@ -11,7 +18,6 @@ div.toptext{
     margin-top:50px;
     margin-left:auto;
     margin-right:auto;
-    box-sizing:border-box;
     padding:20px 25px 20px 25px;
     line-height:32px;
 }
@@ -21,18 +27,19 @@ div.topcontent{
   line-height:32px;
 }
 
-div.toppage{
-  width:auto;
-  height:200px;
+header{
+  width:100vw;
+  height:auto;
 }
 
-div.middle{
+article{
   margin-left:50px;
   margin-top:50px;
+  margin-bottom:50px;
   Float:left;
 }
 
-div.bottompage{
+footer{
   margin-left:50px;
   margin-top:50px;
   Float:left;
@@ -42,19 +49,29 @@ div.A{
   width:200px;
   float:left;
   margin-right:50px;
+  line-height:28px;
 }
 
 div.B{
   width:200px;
   float:left;
   margin-right:50px;
+  line-height:28px;
 }
 
 div.C{
   width:200px;
   float:left;
+  line-height:28px;
 }
 
-div.allpage{
-  float:left;
+.bottom{
+  width:100vw;
+  height:8vh;
+  margin:0px;
+  background:#000;
+  font-size:10px;
+  color:#fff;
+  line-height:8vh;
+  text-align:center;
 }
